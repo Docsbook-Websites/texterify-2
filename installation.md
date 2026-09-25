@@ -1,6 +1,6 @@
 ---
 status: generated
-version: "0.1"
+version: "0.2"
 ---
 
 # Self-hosting Texterify
@@ -47,4 +47,3 @@ In `texterify.json`, set `api_base_url` to your server, for example `https://tra
 ## Next steps
 
 - [Configuration](configuration.md): SMTP, DeepL, sign-in and storage settings.
-- Updating: follow the upgrade guide at [docs.texterify.com/installation/updating-the-service](https://docs.texterify.com/installation/updating-the-service).
